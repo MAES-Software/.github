@@ -31,11 +31,12 @@ Our mission is to deliver software that is:
 
 Here are some of the projects you may find in this organisation:
 
-| Project       | Description                             | Status          |
-| ------------- | --------------------------------------- | --------------- |
-| `MAES.Fiskal` | Croatia Fiscalization library           | 🚀 Production   |
-| `MAES.Fiskal2`| Croatia Fiscalization 2.0               | 🚀 Production   |
-| `ERP`         | Private main company ERP monorepo       | 🚀 Production   |
+| Project       | Description                             | Status          | Visibility  |
+| ------------- | --------------------------------------- | --------------- | ----------- |
+| `MAES.Core`   | Core library for my projects            | 🚀 Production   | Public     |
+| `MAES.Fiskal` | Croatia Fiscalization library           | 🚀 Production   | Public     |
+| `MAES.Fiskal2`| Croatia Fiscalization 2.0               | 🚀 Production   | Public     |
+| `ERP`         | Private main company ERP monorepo       | 🚀 Production   | Private    |
 
 ## 🛠️ Tech Stack
 
